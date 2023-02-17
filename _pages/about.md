@@ -1,50 +1,69 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am currently a Ph.D. student in Department of Electronic Engineering, in Shanghai Jiao Tong University (SJTU).  I have the honor to be supervised by [Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/) and [Zhouhan Lin](https://hantek.github.io/) <br> 
+Before that, I received the bachelor degree in School of Telecommunications Engineering, Xidian University in 2019.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+# Research
+My research interests mainly lie in **natural language processing**, my current research intersts are **code (e.g. SQL) semantic parsing**. The goal of my research is to design and build convenient natural language interfaces (NLIs) that can help humans explore and reason over code in any application. <br>
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+# Selected Publications
+- **RASAT: Integrating Relational Structures into Pretrained Seq2Seq Model for Text-to-SQL**  <br>
+**Jiexing Qi**, Jingyao Tang, Ziwei He, Xiangpeng Wan, Yu Cheng, Chenghu Zhou, Xinbing Wang, Quanshi Zhang and Zhouhan Lin <br>
+**EMNLP 2022** <br>
+[[Arxiv](https://arxiv.org/abs/2205.06983)] [[GitHub](https://github.com/LUMIA-Group/rasat)]
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- **Text Classification in the Wild: a Large-scale Long-tailed Name Normalization Dataset**  <br>
+**Jiexing Qi**, Shuhao Li, Zhixin Guo, Yusheng Huang, Chenghu Zhou, Weinan Zhang, Xinbing Wang, and Zhouhan Lin <br>
+**ICASSP 2023** <br>
+[[Arxiv](https://arxiv.org/abs/2205.06983)] [[GitHub](https://github.com/LUMIA-Group/rasat)]
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- **Asymmetric Polynomial Loss for Multi-label Classification**  <br>
+Yusheng Huang, **Jiexing Qi**, Xinbing Wang, and Zhouhan Lin <br>
+**ICASSP 2023** <br>
+[[Arxiv](https://arxiv.org/abs/2205.06983)] [[GitHub](https://github.com/LUMIA-Group/rasat)]
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+- **Few-Shot Table-to-Text Generation with Prompt Planning and Knowledge Memorization**  <br>
+Zhixin Guo, Minyxuan Yan, **Jiexing Qi**, Jianping Zhou, Ziwei He, Zhouhan Lin, Guanjie Zheng, Xinbing Wang <br>
+**Preprint 2023** <br>
+[[Arxiv](https://arxiv.org/abs/2205.06983)] [[GitHub](https://github.com/LUMIA-Group/rasat)]
 
-**Markdown generator**
+- **INFINITY: A Simple Yet Effective Unsupervised Framework for Graph-Text Mutual Conversion**  <br>
+Yi Xu, Luoyi Fu, Zhouhan Lin, **Jiexing Qi**, Xinbing Wang <br>
+**Preprint 2022** <br>
+[[Arxiv](https://arxiv.org/abs/2205.06983)] [[GitHub](https://github.com/LUMIA-Group/rasat)]
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+# Projects 
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+# Awards
+* Excellent Talents Program of Institute of Information Engineering, CAS.
+* Special Research Assistant Project of CAS.
+* National Natural Science Foundation of China (No. 62106257).
+* PRICAI 2021 best student paper award.
+* Outstanding Graduates of Beijing & UCAS. 2020.
+* National Scholarship for Doctoral students. 2018 & 2019.
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<!--
+# Honors and Awards
+* ZhuLiYueHua Scholarship for Excellent Doctoral Student (Top 1\%, RMB &yen; 5,000). <br> Chinese Academy of Sciences (CAS). 2019.
+* [The UCAS Joint PhD Training Program (2&permil;, USD \$22,800)](https://lijian.ac.cn/files/awards/2019_ucas_joint_phd_training_program.pdf). <br>University of Chinese Academy of Sciences (UCAS). 2019.
+* [CAS Presidential Scholarship (Top 1%, RMB &yen; 5,000)](https://lijian.ac.cn/files/awards/2019_cas_presidential_scholarship.pdf). <br> Chinese Academy of Sciences (CAS). 2019.
+* National Scholarship for Doctoral students (Top 2%, RMB &yen; 30,000). <br> Ministry of Education of P.R. China. 2019.
+* [National Scholarship for Doctoral students (Top 2%, RMB &yen; 30,000)](https://lijian.ac.cn/files/awards/2018_national_scholarship.pdf). <br> Ministry of Education of P.R. China. 2018.
+* [IIE Presidential Scholarship (Top 10%, RMB &yen; 2,000)](https://lijian.ac.cn/files/awards/2018_iie_presidential_scholarship.pdf).
+  <br> Institute of Information Engineering, CAS. 2018.
+* [Merit Student](https://lijian.ac.cn/files/awards/2018_merit_student.pdf), University of Chinese Academy of Sciences (UCAS). 2018.
+* [Merit Student](https://lijian.ac.cn/files/awards/2019_merit_student.pdf), University of Chinese Academy of Sciences (UCAS). 2019.
+* [Laboratory Excellent Student Scholarship](https://lijian.ac.cn/files/awards/2017_laboratory_excellent_student.pdf). <br> Institute of Information Engineering, CAS. 2017.
+* [Laboratory Excellent Student Scholarship](https://lijian.ac.cn/files/awards/2018_laboratory_excellent_student.pdf). <br> Institute of Information Engineering, CAS. 2018.
+-->
+<!---Activity and Service--->
+<!---Experience--->
