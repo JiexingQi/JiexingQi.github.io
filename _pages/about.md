@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am currently a Ph.D. student in Department of Electronic Engineering, in Shanghai Jiao Tong University (SJTU).  I have the honor to be supervised by [Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/) and [Zhouhan Lin](https://hantek.github.io/) <br> 
-Before that, I received the bachelor degree in School of Telecommunications Engineering, Xidian University in 2019.
+Before that, I received the bachelor degree in School of Telecommunications Engineering, Xidian University in 2019.哈哈
 
 # Research
 My research interests mainly lie in **natural language processing**, my current research intersts are **code (e.g. SQL) semantic parsing**. The goal of my research is to design and build convenient natural language interfaces (NLIs) that can help humans explore and reason over code in any application. <br>
