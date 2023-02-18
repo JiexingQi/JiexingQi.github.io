@@ -20,34 +20,34 @@ My research interests mainly lie in **natural language processing**, my current 
 **EMNLP 2022** <br>
 [[Arxiv](https://arxiv.org/abs/2205.06983)] [[GitHub](https://github.com/LUMIA-Group/rasat)]
 [[Talk](https://www.techbeat.net/talk-info?id=719)]
-<br><br>
+<br>
 
 **Text Classification in the Wild: a Large-scale Long-tailed Name Normalization Dataset**  <br>
 **Jiexing Qi**, Shuhao Li, Zhixin Guo, Yusheng Huang, Chenghu Zhou, Weinan Zhang, Xinbing Wang, and Zhouhan Lin <br>
 **ICASSP 2023** <br>
 [[Arxiv](https://arxiv.org/abs/2205.06983)] [[GitHub](https://github.com/LUMIA-Group/rasat)]
-<br><br>
+<br>
 
 
 **Asymmetric Polynomial Loss for Multi-label Classification**  <br>
 Yusheng Huang, **Jiexing Qi**, Xinbing Wang, and Zhouhan Lin <br>
 **ICASSP 2023** <br>
 [[Arxiv](https://arxiv.org/abs/2205.06983)] [[GitHub](https://github.com/LUMIA-Group/rasat)]
-<br><br>
+<br>
 
 
 **Few-Shot Table-to-Text Generation with Prompt Planning and Knowledge Memorization**  <br>
 Zhixin Guo, Minyxuan Yan, **Jiexing Qi**, Jianping Zhou, Ziwei He, Zhouhan Lin, Guanjie Zheng, Xinbing Wang <br>
 **Preprint 2023** <br>
 [[Arxiv](https://arxiv.org/abs/2205.06983)] [[GitHub](https://github.com/LUMIA-Group/rasat)]
-<br><br>
+<br>
 
 
 **INFINITY: A Simple Yet Effective Unsupervised Framework for Graph-Text Mutual Conversion**  <br>
 Yi Xu, Luoyi Fu, Zhouhan Lin, **Jiexing Qi**, Xinbing Wang <br>
 **Preprint 2022** <br>
 [[Arxiv](https://arxiv.org/abs/2205.06983)] [[GitHub](https://github.com/LUMIA-Group/rasat)]
-<br><br>
+<br>
 
 
 # Projects 
