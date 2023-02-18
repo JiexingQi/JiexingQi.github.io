@@ -7,7 +7,6 @@
 <div itemscope itemtype="http://schema.org/Person">
 
   <div class="author__avatar">
-    12
     {% if author.avatar contains "://" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
@@ -108,7 +107,7 @@
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
       {% if author.semanticscholar %}
-        <li><a href="{{ author.semanticscholar }}"><i class="fab fa-fw fa-chain"></i> semanticscholar</a></li>
+        <li><a href="{{ author.semanticscholar }}"><i class="fa fa-fw fa-chain"></i> semanticscholar</a></li>
       {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
