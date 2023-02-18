@@ -44,12 +44,17 @@ Yi Xu, Luoyi Fu, Zhouhan Lin, **Jiexing Qi**, Xinbing Wang <br>
 
 
 # Awards
-* Excellent Talents Program of Institute of Information Engineering, CAS.
-* Special Research Assistant Project of CAS.
-* National Natural Science Foundation of China (No. 62106257).
-* PRICAI 2021 best student paper award.
-* Outstanding Graduates of Beijing & UCAS. 2020.
-* National Scholarship for Doctoral students. 2018 & 2019.
+- Third Prize in the 17th China Post-Graduate Mathematical Contest in Modeling. 2020
+- **Outstanding Graduates of Xidian University (Top 1%)**. 2019
+- Honorable Mention in Mathematical Contest In Modeling (MCM). 2018
+- First Class Scholarship for Undergraduate Student in Xidian University (Top 5%). 2017 & 2018
+- National Encouragement Scholarship. 2017
+- **National Scholarship**. 2016
+- Highest Honor Scholarship for Undergraduate Student in Xidian University (Top 1%). 2015 & 2018
+
+
+
+
 
 <!--
 # Honors and Awards
