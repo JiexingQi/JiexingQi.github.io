@@ -15,33 +15,46 @@ My research interests mainly lie in **natural language processing**, my current 
 
 
 # Selected Publications
-- **RASAT: Integrating Relational Structures into Pretrained Seq2Seq Model for Text-to-SQL**  <br>
+**RASAT: Integrating Relational Structures into Pretrained Seq2Seq Model for Text-to-SQL**  <br>
 **Jiexing Qi**, Jingyao Tang, Ziwei He, Xiangpeng Wan, Yu Cheng, Chenghu Zhou, Xinbing Wang, Quanshi Zhang and Zhouhan Lin <br>
 **EMNLP 2022** <br>
 [[Arxiv](https://arxiv.org/abs/2205.06983)] [[GitHub](https://github.com/LUMIA-Group/rasat)]
+[[Talk](https://www.techbeat.net/talk-info?id=719)]
+<br><br>
 
-- **Text Classification in the Wild: a Large-scale Long-tailed Name Normalization Dataset**  <br>
+**Text Classification in the Wild: a Large-scale Long-tailed Name Normalization Dataset**  <br>
 **Jiexing Qi**, Shuhao Li, Zhixin Guo, Yusheng Huang, Chenghu Zhou, Weinan Zhang, Xinbing Wang, and Zhouhan Lin <br>
 **ICASSP 2023** <br>
 [[Arxiv](https://arxiv.org/abs/2205.06983)] [[GitHub](https://github.com/LUMIA-Group/rasat)]
+<br><br>
 
-- **Asymmetric Polynomial Loss for Multi-label Classification**  <br>
+
+**Asymmetric Polynomial Loss for Multi-label Classification**  <br>
 Yusheng Huang, **Jiexing Qi**, Xinbing Wang, and Zhouhan Lin <br>
 **ICASSP 2023** <br>
 [[Arxiv](https://arxiv.org/abs/2205.06983)] [[GitHub](https://github.com/LUMIA-Group/rasat)]
+<br><br>
 
-- **Few-Shot Table-to-Text Generation with Prompt Planning and Knowledge Memorization**  <br>
+
+**Few-Shot Table-to-Text Generation with Prompt Planning and Knowledge Memorization**  <br>
 Zhixin Guo, Minyxuan Yan, **Jiexing Qi**, Jianping Zhou, Ziwei He, Zhouhan Lin, Guanjie Zheng, Xinbing Wang <br>
 **Preprint 2023** <br>
 [[Arxiv](https://arxiv.org/abs/2205.06983)] [[GitHub](https://github.com/LUMIA-Group/rasat)]
+<br><br>
 
-- **INFINITY: A Simple Yet Effective Unsupervised Framework for Graph-Text Mutual Conversion**  <br>
+
+**INFINITY: A Simple Yet Effective Unsupervised Framework for Graph-Text Mutual Conversion**  <br>
 Yi Xu, Luoyi Fu, Zhouhan Lin, **Jiexing Qi**, Xinbing Wang <br>
 **Preprint 2022** <br>
 [[Arxiv](https://arxiv.org/abs/2205.06983)] [[GitHub](https://github.com/LUMIA-Group/rasat)]
+<br><br>
+
 
 # Projects 
-
+- Keywords Ranking in NSFC, [url](https://aceranking.acemap.cn/#/nsfckeywords)
+- Top author/paper in kqi ranking of CCF fields, [url](https://www.acemap.info/aceranking)
+- Hot Keywords of CCF Field, [url](https://aceranking.acemap.cn/#/hotkeywords)
+- Galaxy Album of Seminal Paper, [url](https://archive.acemap.info/seminal-papers/index)
 
 # Awards
 - Third Prize in the 17th China Post-Graduate Mathematical Contest in Modeling. 2020
@@ -52,8 +65,8 @@ Yi Xu, Luoyi Fu, Zhouhan Lin, **Jiexing Qi**, Xinbing Wang <br>
 - **National Scholarship**. 2016
 - Highest Honor Scholarship for Undergraduate Student in Xidian University (Top 1%). 2015 & 2018
 
-
-
+# Service
+- Reviewer: COLING, EMNLP
 
 
 <!--
