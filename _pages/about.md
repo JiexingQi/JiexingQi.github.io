@@ -69,6 +69,16 @@ Yi Xu, Luoyi Fu, Zhouhan Lin, **Jiexing Qi**, Xinbing Wang <br>
 - Reviewer: COLING, EMNLP
 
 
+# Patents
+- 一种根据学术表格及其选中内容生成描述的方法及系统
+- 实体名称归一化系统及其方法、计算机可读介质
+- 机构命名实体归一化方法和系统
+- 基于LEAM 模型的机构命名实体归一化方法和系统
+- 知识图谱架构的构建与应用方法、系统及介质
+- 基于分割绘图法的网络布局方法、系统及介质
+
+
+
 <!--
 # Honors and Awards
 * ZhuLiYueHua Scholarship for Excellent Doctoral Student (Top 1\%, RMB &yen; 5,000). <br> Chinese Academy of Sciences (CAS). 2019.
