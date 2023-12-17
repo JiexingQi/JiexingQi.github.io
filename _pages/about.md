@@ -18,21 +18,35 @@ My research interests mainly lie in **natural language processing**, my current 
 **RASAT: Integrating Relational Structures into Pretrained Seq2Seq Model for Text-to-SQL**  <br>
 **Jiexing Qi**, Jingyao Tang, Ziwei He, Xiangpeng Wan, Yu Cheng, Chenghu Zhou, Xinbing Wang, Quanshi Zhang and Zhouhan Lin <br>
 **EMNLP 2022** <br>
-[[Arxiv](https://arxiv.org/abs/2205.06983)] [[GitHub](https://github.com/LUMIA-Group/rasat)]
+[[Link](https://aclanthology.org/2022.emnlp-main.211/)] [[GitHub](https://github.com/LUMIA-Group/rasat)]
 [[Talk](https://www.techbeat.net/talk-info?id=719)]
 <br>
 
 **Text Classification in the Wild: a Large-scale Long-tailed Name Normalization Dataset**  <br>
 **Jiexing Qi**, Shuhao Li, Zhixin Guo, Yusheng Huang, Chenghu Zhou, Weinan Zhang, Xinbing Wang, and Zhouhan Lin <br>
 **ICASSP 2023** <br>
-[[Arxiv](https://arxiv.org/abs/2302.09509)] [[GitHub](https://github.com/LUMIA-Group/LoT-insts)]
+[[Link](https://ieeexplore.ieee.org/document/10096769)] [[GitHub](https://github.com/LUMIA-Group/LoT-insts)]
 <br>
 
 
 **Asymmetric Polynomial Loss for Multi-label Classification**  <br>
 Yusheng Huang, **Jiexing Qi**, Xinbing Wang, and Zhouhan Lin <br>
 **ICASSP 2023** <br>
-[[GitHub](https://github.com/LUMIA-Group/APL)]
+[[Link](https://arxiv.org/abs/2302.09509)] [[GitHub](https://github.com/LUMIA-Group/APL)]
+<br>
+
+
+**Unsupervised Graph-Text Mutual Conversion with a Unified Pretrained Language Model**  <br>
+Yi Xu, Shuqian Sheng, **Jiexing Qi**, Luoyi Fu, Zhouhan Lin,  Xinbing Wang<br>
+**ACL 2023** <br>
+[[Link](https://aclanthology.org/2023.acl-long.281/)] 
+<br>
+
+
+**Towards Controlled Table-to-Text Generation with Scientific Reasoning**  <br>
+Zhixin Guo, Jianping Zhou, **Jiexing Qi**, Mingxuan Yan, Ziwei He, Guanjie Zheng, Zhouhan Lin, Xinbing Wang, Chenghu Zhou <br>
+**ICASSP 2024** <br>
+[[Arxiv](https://arxiv.org/abs/2312.05402)] 
 <br>
 
 
@@ -40,13 +54,6 @@ Yusheng Huang, **Jiexing Qi**, Xinbing Wang, and Zhouhan Lin <br>
 Zhixin Guo, Minyxuan Yan, **Jiexing Qi**, Jianping Zhou, Ziwei He, Zhouhan Lin, Guanjie Zheng, Xinbing Wang <br>
 **Preprint 2023** <br>
 [[Arxiv](https://arxiv.org/abs/2302.04415)] 
-<br>
-
-
-**INFINITY: A Simple Yet Effective Unsupervised Framework for Graph-Text Mutual Conversion**  <br>
-Yi Xu, Luoyi Fu, Zhouhan Lin, **Jiexing Qi**, Xinbing Wang <br>
-**Preprint 2022** <br>
-[[Arxiv](https://arxiv.org/abs/2209.10754)] 
 <br>
 
 
