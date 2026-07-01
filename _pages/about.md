@@ -15,6 +15,36 @@ My research interests mainly lie in **natural language processing**, and my curr
 
 
 # Selected Publications
+**A Century of Knowledge Growth in Sedimentology**  <br>
+Yiwei Xu, Xiumian Hu, Eduardo Garzanti, **Jiexing Qi**, Huquan Kang, Han-hong Nong, Luwen Wu, Jiaxin Ding, Xinbing Wang and Chengshan Wang <br>
+**Gondwana Research 2025** <br>
+[[Link](https://doi.org/10.1016/j.gr.2025.04.017)]
+<br>
+
+**Enhancing SPARQL Generation by Triplet-Order-Sensitive Pre-Training**  <br>
+Chang Su, **Jiexing Qi**, He Yan, Kai Zou and Zhouhan Lin <br>
+**CIKM 2024** <br>
+[[Link](https://doi.org/10.1145/3627673.3679916)] [[Arxiv](https://doi.org/10.48550/arXiv.2410.05731)]
+<br>
+
+**Enhancing SPARQL Query Generation for Knowledge Base Question Answering Systems by Learning to Correct Triplets**  <br>
+**Jiexing Qi**, Chang Su, Zhixin Guo, Lyuwen Wu, Zanwei Shen, Luoyi Fu, Xinbing Wang and Chenghu Zhou <br>
+**Applied Sciences 2024** <br>
+[[Link](https://doi.org/10.3390/app14041521)]
+<br>
+
+**Adapting Knowledge for Few-Shot Table-to-Text Generation**  <br>
+Zhixin Guo, Min Yan, **Jiexing Qi**, Jianping Zhou, Ziwei He, Guanjie Zheng, Xinbing Wang and Chenghu Zhou <br>
+**IEEE/ACM Transactions on Audio, Speech, and Language Processing 2024** <br>
+[[Link](https://doi.org/10.1109/TASLP.2024.3430480)]
+<br>
+
+**Towards Controlled Table-to-Text Generation with Scientific Reasoning**  <br>
+Zhixin Guo, Jianping Zhou, **Jiexing Qi**, Mingxuan Yan, Ziwei He, Guanjie Zheng, Zhouhan Lin, Xinbing Wang and Chenghu Zhou <br>
+**ICASSP 2024** <br>
+[[Link](https://doi.org/10.1109/ICASSP48485.2024.10446479)] 
+<br>
+
 **RASAT: Integrating Relational Structures into Pretrained Seq2Seq Model for Text-to-SQL**  <br>
 **Jiexing Qi**, Jingyao Tang, Ziwei He, Xiangpeng Wan, Yu Cheng, Chenghu Zhou, Xinbing Wang, Quanshi Zhang and Zhouhan Lin <br>
 **EMNLP 2022** <br>
@@ -40,20 +70,6 @@ Yusheng Huang, **Jiexing Qi**, Xinbing Wang, and Zhouhan Lin <br>
 Yi Xu, Shuqian Sheng, **Jiexing Qi**, Luoyi Fu, Zhouhan Lin,  Xinbing Wang<br>
 **ACL 2023** <br>
 [[Link](https://aclanthology.org/2023.acl-long.281/)] 
-<br>
-
-
-**Towards Controlled Table-to-Text Generation with Scientific Reasoning**  <br>
-Zhixin Guo, Jianping Zhou, **Jiexing Qi**, Mingxuan Yan, Ziwei He, Guanjie Zheng, Zhouhan Lin, Xinbing Wang, Chenghu Zhou <br>
-**ICASSP 2024** <br>
-[[Arxiv](https://arxiv.org/abs/2312.05402)] 
-<br>
-
-
-**Few-Shot Table-to-Text Generation with Prompt Planning and Knowledge Memorization**  <br>
-Zhixin Guo, Minyxuan Yan, **Jiexing Qi**, Jianping Zhou, Ziwei He, Zhouhan Lin, Guanjie Zheng, Xinbing Wang <br>
-**Preprint 2023** <br>
-[[Arxiv](https://arxiv.org/abs/2302.04415)] 
 <br>
 
 
