@@ -9,6 +9,12 @@ You can also find my articles on <u><a href="{{ site.author.googlescholar }}">Go
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% assign first_author_publications = site.publications | where: "first_author", true | sort: "featured_order" %}
+{% for post in first_author_publications %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% assign other_publications = site.publications | where_exp: "post", "post.first_author != true" %}
+{% for post in other_publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
