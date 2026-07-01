@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Jiexing Qi"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Jiexing Qi"
+description              : &description "Ph.D. student at Shanghai Jiao Tong University working on natural language processing, semantic parsing, and natural language interfaces."
 url                      : https://jiexingqi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "JiexingQi/JiexingQi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -66,14 +66,18 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Person
+  name                   : "Jiexing Qi"
   links: # An array of links to social media profiles
+    - "https://github.com/JiexingQi"
+    - "https://scholar.google.com.hk/citations?user=j2ELKF8AAAAJ"
+    - "https://www.semanticscholar.org/author/Jiexing-Qi/2165381168"
+    - "https://dblp.org/pid/320/4674.html"
 
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,7 +86,7 @@ analytics:
 author:
   name             : "Jiexing Qi (亓杰星)"
   avatar           : "profile.png"
-  bio              : "Ph.D. student in SJTU."
+  bio              : "Ph.D. student at SJTU working on NLP and semantic parsing."
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
@@ -183,12 +187,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -229,24 +227,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-
 # Sass/SCSS
 sass:
   sass_dir: _sass

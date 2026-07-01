@@ -11,7 +11,7 @@ I am currently a Ph.D. student in Department of Electronic Engineering, in Shang
 Before that, I received the bachelor degree in School of Telecommunications Engineering, Xidian University in 2019.
 
 # Research
-My research interests mainly lie in **natural language processing**, my current research intersts are **code (e.g. SQL) semantic parsing**. The goal of my research is to design and build convenient natural language interfaces (NLIs) that can help humans explore and reason over code in any application. <br>
+My research interests mainly lie in **natural language processing**, and my current research interests are **code (e.g. SQL) semantic parsing**. The goal of my research is to design and build convenient natural language interfaces (NLIs) that can help humans explore and reason over code in any application. <br>
 
 
 # Selected Publications
