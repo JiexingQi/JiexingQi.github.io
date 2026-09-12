@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<main id="main" class="academic-layout" tabindex="-1">
+  {% include sidebar.html %}
+  <article class="academic-content{% if page.permalink == '/' %} academic-content--home{% endif %}">
+    <header class="academic-header">
+      {% if page.eyebrow %}<p class="eyebrow">{{ page.eyebrow }}</p>{% endif %}
+      <h1>{{ page.title }}</h1>
+      {% if page.description %}<p class="page-intro">{{ page.description }}</p>{% endif %}
+    </header>
+    {{ content }}
+  </article>
+</main>

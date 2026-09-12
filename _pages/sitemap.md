@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: academic
 title: "Sitemap"
 permalink: /sitemap/
 author_profile: true
@@ -18,11 +18,12 @@ A list of the pages and academic content on this site. An [XML version]({{ base_
 </ul>
 
 <h2>Publications</h2>
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+<ul>
+{% assign publications_by_date = site.publications | sort: 'date' | reverse %}
+{% for post in publications_by_date %}
+  <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> ({{ post.date | date: '%Y' }})</li>
 {% endfor %}
+</ul>
 
 <h2>Teaching</h2>
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+{% include teaching-list.html %}

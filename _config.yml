@@ -85,6 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Jiexing Qi (亓杰星)"
+  name_zh          : "亓杰星"
   avatar           : "profile.png"
   bio              : "Ph.D. student at SJTU working on NLP and semantic parsing."
   location         : "Shanghai, China"
@@ -150,6 +151,8 @@ exclude:
   - log
   - node_modules
   - package.json
+  - package-lock.json
+  - Gemfile.lock
   - tmp
   - vendor
 keep_files:
@@ -223,10 +226,10 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: single
+      layout: publication
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -237,7 +240,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai
 
 
 # Plugins

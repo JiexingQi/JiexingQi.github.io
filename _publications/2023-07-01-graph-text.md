@@ -3,7 +3,9 @@ title: "Unsupervised Graph-Text Mutual Conversion with a Unified Pretrained Lang
 collection: publications
 permalink: /publication/2023-07-01-graph-text
 date: 2023-07-01
-venue: "ACL 2023"
+venue: "ACL"
+authors: [Yi Xu, Shuqian Sheng, Jiexing Qi, Luoyi Fu, Zhouhan Lin, Xinbing Wang, Chenghu Zhou]
+selected: true
 paperurl: "https://aclanthology.org/2023.acl-long.281/"
 citation: "Yi Xu, Shuqian Sheng, Jiexing Qi, Luoyi Fu, Zhouhan Lin, Xinbing Wang, and Chenghu Zhou. Unsupervised Graph-Text Mutual Conversion with a Unified Pretrained Language Model. ACL 2023."
 ---

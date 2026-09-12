@@ -4,6 +4,8 @@ collection: publications
 permalink: /publication/2024-02-14-sparql-correct-triplets
 date: 2024-02-14
 venue: "Applied Sciences"
+authors: [Jiexing Qi, Chang Su, Zhixin Guo, Lyuwen Wu, Zanwei Shen, Luoyi Fu, Xinbing Wang, Chenghu Zhou]
+selected: true
 first_author: true
 featured_order: 3
 paperurl: "https://doi.org/10.3390/app14041521"

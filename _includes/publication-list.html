@@ -1,0 +1,21 @@
+{% assign first_author_publications = site.publications | where: 'first_author', true | sort: 'featured_order' %}
+{% assign other_publications = site.publications | where_exp: 'post', 'post.first_author != true' | sort: 'date' | reverse %}
+{% if include.selected %}
+  <ul class="publication-list">
+    {% for post in first_author_publications %}{% include publication.html publication=post %}{% endfor %}
+    {% for post in other_publications %}{% if post.selected %}{% include publication.html publication=post %}{% endif %}{% endfor %}
+  </ul>
+{% else %}
+  <section class="publication-group" data-publication-group aria-labelledby="first-author-heading">
+    <h2 id="first-author-heading">First-author publications</h2>
+    <ul class="publication-list">
+      {% for post in first_author_publications %}{% include publication.html publication=post %}{% endfor %}
+    </ul>
+  </section>
+  <section class="publication-group" data-publication-group aria-labelledby="other-publications-heading">
+    <h2 id="other-publications-heading">Other publications</h2>
+    <ul class="publication-list">
+      {% for post in other_publications %}{% include publication.html publication=post %}{% endfor %}
+    </ul>
+  </section>
+{% endif %}

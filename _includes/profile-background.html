@@ -1,0 +1,29 @@
+<section aria-labelledby="projects">
+  <h2 id="projects">Projects</h2>
+  <ul class="project-list">
+    {% for project in site.data.profile.projects %}
+    <li>
+      <h3><a href="{{ project.url }}">{{ project.name }} <i class="fas fa-external-link-alt" aria-hidden="true"></i></a></h3>
+      <p>{{ project.description }}</p>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+<section aria-labelledby="awards">
+  <h2 id="awards">Awards</h2>
+  <dl class="award-list">
+    {% for award in site.data.profile.awards %}
+    <div><dt>{{ award.year }}</dt><dd>{{ award.title }}{% if award.distinction %} <span class="award-distinction">({{ award.distinction }})</span>{% endif %}</dd></div>
+    {% endfor %}
+  </dl>
+</section>
+<section aria-labelledby="service">
+  <h2 id="service">Service</h2>
+  <p>Reviewer for <strong>COLING</strong> and <strong>EMNLP</strong>.</p>
+</section>
+<section aria-labelledby="patents">
+  <h2 id="patents">Patents</h2>
+  <ul class="patent-list" lang="zh">
+    {% for patent in site.data.profile.patents %}<li>{{ patent }}</li>{% endfor %}
+  </ul>
+</section>

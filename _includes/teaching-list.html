@@ -1,0 +1,9 @@
+<ul class="teaching-list">
+  {% assign courses = site.teaching | sort: 'date' | reverse %}
+  {% for course in courses %}
+  <li>
+    <time datetime="{{ course.date | date: '%Y-%m-%d' }}">{{ course.date | date: '%Y' }}</time>
+    <div><h2>{{ course.title }}</h2><p>{{ course.type }}</p></div>
+  </li>
+  {% endfor %}
+</ul>
