@@ -2,7 +2,7 @@
 layout: academic
 title: "Publications"
 permalink: /publications/
-description: "Research in natural language processing, semantic parsing, and knowledge discovery."
+description: "Research in language model agents and reinforcement learning, alongside earlier work in natural language processing, semantic parsing, and knowledge discovery."
 author_profile: true
 ---
 

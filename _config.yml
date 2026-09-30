@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jiexing Qi"
 title_separator          : "-"
 name                     : &name "Jiexing Qi"
-description              : &description "Ph.D. student at Shanghai Jiao Tong University working on natural language processing, semantic parsing, and natural language interfaces."
+description              : &description "System Engineer for Large Agent Model (LAM) Post-Training at Huawei, working on language model agents and agentic reinforcement learning."
 url                      : https://jiexingqi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JiexingQi/JiexingQi.github.io"
@@ -87,7 +87,7 @@ author:
   name             : "Jiexing Qi (亓杰星)"
   name_zh          : "亓杰星"
   avatar           : "profile.png"
-  bio              : "Ph.D. student at SJTU working on NLP and semantic parsing."
+  bio              : "System Engineer at Huawei working on language model agents and post-training."
   location         : "Shanghai, China"
   employer         :
   pubmed           : 

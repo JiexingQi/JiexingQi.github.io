@@ -2,7 +2,7 @@
 layout: academic
 permalink: /
 title: "About me"
-eyebrow: "Natural language processing & semantic parsing"
+eyebrow: "Language model agents & reinforcement learning"
 excerpt: "Jiexing Qi's research, selected publications, projects, and academic background."
 author_profile: true
 redirect_from:
@@ -10,14 +10,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Department of Electronic Engineering at **Shanghai Jiao Tong University**, advised by [Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/) and [Zhouhan Lin](https://hantek.github.io/). I received my bachelor's degree from the School of Telecommunications Engineering at **Xidian University** in 2019.
+I am a **System Engineer for Large Agent Model (LAM) Post-Training** at **Huawei**, in the AI Competence Center, NAIE Platform Department, ICT BG. I joined Huawei in October 2024. I received my Ph.D. from the Department of Electronic Engineering at **Shanghai Jiao Tong University** in September 2024, supervised by [Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/) and [Zhouhan Lin](https://hantek.github.io/). I received my bachelor's degree from the School of Telecommunications Engineering at **Xidian University** in 2019.
 
-My research focuses on **natural language processing and semantic parsing**, especially translating natural language into structured queries such as SQL. I aim to build natural language interfaces that help people explore and reason over code and structured data.
+My current research focuses on **language model agents and agentic reinforcement learning**, particularly the co-evolution of agent models and harnesses. My earlier work explored natural language processing and semantic parsing, including Text-to-SQL.
 
 <ul class="research-topics" aria-label="Research interests">
-  <li>Natural language processing</li>
-  <li>Text-to-SQL</li>
-  <li>Semantic parsing</li>
+  <li>Language model agents</li>
+  <li>Agentic reinforcement learning</li>
+  <li>Model–harness co-evolution</li>
 </ul>
 
 <nav class="section-nav" aria-label="On this page">
